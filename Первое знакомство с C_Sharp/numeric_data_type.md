@@ -1,8 +1,10 @@
-# Заметки по лекции: типы данных
+# Числовые типы данных
+
+## Заметки по лекции: типы данных
 
 [Видео](https://youtu.be/ooh2lcIxAmk)
 
-```csharp
+```cs
 class Program
 {
 	static void Main()
@@ -37,9 +39,9 @@ class Program
 }
 ```
 
-# Заметки по лекции: конверсия типов
+## Заметки по лекции: конверсия типов
 
-```csharp
+```cs
 class Program2
 {
 	static void Main()

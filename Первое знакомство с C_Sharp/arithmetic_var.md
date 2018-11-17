@@ -4,7 +4,7 @@
 
 # Заметки по лекции
 
-```csharp
+```cs
 class Program
 {
 	static void Main()
