@@ -6,4 +6,6 @@
 
 [Ссылка на курс](https://ulearn.me/Course/BasicProgramming)
 
-## [Первое знакомство с C#](Первое%20знакомство%20с%20C_Sharp/readme.md)
+## [Первое знакомство с C#](First_Meeting/readme.md)
+
+## [Ошибки](Errors/readme.md)

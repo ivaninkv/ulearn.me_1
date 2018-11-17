@@ -7,7 +7,7 @@
     <ProjectGuid>{21094727-290D-4D69-A6B6-76AA213BE7DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>First_Meeting</RootNamespace>
-    <AssemblyName>Первое знакомство с C_Sharp</AssemblyName>
+    <AssemblyName>First_Meeting</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
