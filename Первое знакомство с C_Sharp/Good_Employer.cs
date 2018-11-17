@@ -1,6 +1,6 @@
 using System;
 
-namespace Первое_знакомство_с_C_Sharp
+namespace First_Meeting
 {
     class Good_Employer
     {

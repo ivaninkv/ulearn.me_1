@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Первое знакомство с C_Sharp", "Первое знакомство с C_Sharp\Первое знакомство с C_Sharp.csproj", "{21094727-290D-4D69-A6B6-76AA213BE7DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_Meeting", "Первое знакомство с C_Sharp\First_Meeting.csproj", "{21094727-290D-4D69-A6B6-76AA213BE7DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

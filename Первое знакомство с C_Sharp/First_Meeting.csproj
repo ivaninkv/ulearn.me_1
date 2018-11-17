@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{21094727-290D-4D69-A6B6-76AA213BE7DD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Первое_знакомство_с_C_Sharp</RootNamespace>
+    <RootNamespace>First_Meeting</RootNamespace>
     <AssemblyName>Первое знакомство с C_Sharp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -37,10 +37,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bitcoin.cs" />
+    <Compile Include="Find_Methods.cs" />
     <Compile Include="First_Step.cs" />
+    <Compile Include="Forty_Two.cs" />
+    <Compile Include="Good_Employer.cs" />
     <Compile Include="Incorrect_Cast.cs" />
     <Compile Include="Incorrect_Type.cs" />
     <Compile Include="String_To_Number.cs" />
+    <Compile Include="Use_Var.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

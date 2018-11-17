@@ -1,6 +1,6 @@
 using System;
 
-namespace Первое_знакомство_с_C_Sharp
+namespace First_Meeting
 {
     class Forty_Two
     {
