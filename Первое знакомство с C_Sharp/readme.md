@@ -9,3 +9,7 @@
 [Строки](./strings.md)
 
 [Арифметические операции и var](./arithmetic_var.md)
+
+[Методы](./methods.md)
+
+[Переменные](./variable.md)
